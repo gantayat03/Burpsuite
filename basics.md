@@ -129,4 +129,4 @@ Ctrl + Shift + I   → Intruder
 Ctrl + Shift + R   → Repeater 
 ```
 
-Started learning on [My TryHackMe](https://tryhackme.com/p/shreyagantayat03) — Let’s lock it in!
+_Started learning on [My TryHackMe](https://tryhackme.com/p/shreyagantayat03) — Let’s lock it in!_
