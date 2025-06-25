@@ -126,7 +126,7 @@ Ctrl + Shift + P   → Proxy
 Ctrl + Shift + I   → Intruder
 ```
 ```bash  
-Ctrl + Shift + R   → Repeater
+Ctrl + Shift + R   → Repeater 
 ```
 
-_Started learning on [My TryHackMe](https://tryhackme.com/p/shreyagantayat03) — Let’s lock it in!_
+Started learning on [My TryHackMe](https://tryhackme.com/p/shreyagantayat03) — Let’s lock it in!
