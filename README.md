@@ -1,1 +1,1 @@
-## Burpsuite Basica and Essentials 
+## Burpsuite Basics and Essentials 
